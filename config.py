@@ -20,11 +20,11 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = "https://github.com/vijay111135Tn/SiestaXMusic"
+UPSTREAM_REPO = "https://github.com/vijay111135Tn/PyTgMusic-Video/find/main"
 UPSTREAM_BRANCH = "main"
 
-SUPPORT_CHANNEL = "https://t.me/TechZBots"
-SUPPORT_GROUP = "https://t.me/TechZBots_Support"
+SUPPORT_CHANNEL = "https://t.me/tgcalls_Music_update"
+SUPPORT_GROUP = "https://t.me/tgcalls_MusicXchat"
 
 THUMBNAIL = getenv("THUMB_LINK") 
 
